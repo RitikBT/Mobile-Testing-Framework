@@ -1,0 +1,146 @@
+2022-04-12 11:02:00,927 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - @BeforeSuite Method has been completed
+2022-04-12 11:02:26,186 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - App launched
+2022-04-12 11:02:27,577 - com.qa.mobile.utility.Utility -INFO - Clicked on Access'ibility
+2022-04-12 11:02:30,257 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:02:31,529 - com.qa.mobile.utility.Utility -INFO - Clicked on Accessibility
+2022-04-12 11:02:34,191 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:02:35,516 - com.qa.mobile.utility.Utility -INFO - Clicked on Animation
+2022-04-12 11:02:38,206 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:02:40,137 - com.qa.mobile.utility.Utility -INFO - Clicked on App
+2022-04-12 11:02:42,848 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:02:44,138 - com.qa.mobile.utility.Utility -INFO - Clicked on Content
+2022-04-12 11:02:46,803 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:02:48,083 - com.qa.mobile.utility.Utility -INFO - Clicked on Graphics
+2022-04-12 11:02:50,761 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:02:52,598 - com.qa.mobile.utility.Utility -INFO - Clicked on Media
+2022-04-12 11:02:55,274 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:02:56,592 - com.qa.mobile.utility.Utility -INFO - Clicked on NFC
+2022-04-12 11:02:59,264 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:03:01,403 - com.qa.mobile.utility.Utility -INFO - Clicked on OS
+2022-04-12 11:03:04,075 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:03:05,388 - com.qa.mobile.utility.Utility -INFO - Clicked on Preference
+2022-04-12 11:03:08,034 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:03:09,302 - com.qa.mobile.utility.Utility -INFO - Clicked on Text
+2022-04-12 11:03:11,934 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:03:13,223 - com.qa.mobile.utility.Utility -INFO - Clicked on Views
+2022-04-12 11:03:15,876 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:03:15,943 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - TestCase passed validateAllMainModule
+2022-04-12 11:03:17,138 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - driver closed
+2022-04-12 11:03:17,202 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - Appium Server Closed
+2022-04-12 11:34:02,974 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - @BeforeSuite Method has been completed
+2022-04-12 11:34:26,863 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - App launched
+2022-04-12 11:34:28,226 - com.qa.mobile.utility.Utility -INFO - Clicked on Access'ibility
+2022-04-12 11:34:30,918 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:34:32,278 - com.qa.mobile.utility.Utility -INFO - Clicked on Accessibility
+2022-04-12 11:34:34,953 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:34:36,232 - com.qa.mobile.utility.Utility -INFO - Clicked on Animation
+2022-04-12 11:34:38,945 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:34:40,905 - com.qa.mobile.utility.Utility -INFO - Clicked on App
+2022-04-12 11:34:43,586 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:34:45,552 - com.qa.mobile.utility.Utility -INFO - Clicked on Content
+2022-04-12 11:34:48,245 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:34:50,109 - com.qa.mobile.utility.Utility -INFO - Clicked on Graphics
+2022-04-12 11:34:52,700 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:34:54,655 - com.qa.mobile.utility.Utility -INFO - Clicked on Media
+2022-04-12 11:34:57,308 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:34:59,188 - com.qa.mobile.utility.Utility -INFO - Clicked on NFC
+2022-04-12 11:35:01,975 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:35:03,877 - com.qa.mobile.utility.Utility -INFO - Clicked on OS
+2022-04-12 11:35:06,513 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:35:07,792 - com.qa.mobile.utility.Utility -INFO - Clicked on Preference
+2022-04-12 11:35:10,446 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:35:12,380 - com.qa.mobile.utility.Utility -INFO - Clicked on Text
+2022-04-12 11:35:15,101 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:35:16,388 - com.qa.mobile.utility.Utility -INFO - Clicked on Views
+2022-04-12 11:35:19,095 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:35:19,127 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - TestCase passed validateAllMainModule
+2022-04-12 11:35:20,149 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - driver closed
+2022-04-12 11:35:20,212 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - Appium Server Closed
+2022-04-12 11:37:22,714 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - @BeforeSuite Method has been completed
+2022-04-12 11:37:48,016 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - App launched
+2022-04-12 11:37:49,501 - com.qa.mobile.utility.Utility -INFO - Clicked on Access'ibility
+2022-04-12 11:37:52,228 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:37:53,547 - com.qa.mobile.utility.Utility -INFO - Clicked on Accessibility
+2022-04-12 11:37:56,255 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:37:58,124 - com.qa.mobile.utility.Utility -INFO - Clicked on Animation
+2022-04-12 11:38:00,781 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:38:02,087 - com.qa.mobile.utility.Utility -INFO - Clicked on App
+2022-04-12 11:38:04,921 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:38:06,257 - com.qa.mobile.utility.Utility -INFO - Clicked on Content
+2022-04-12 11:38:08,907 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:38:10,876 - com.qa.mobile.utility.Utility -INFO - Clicked on Graphics
+2022-04-12 11:38:13,571 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:38:14,922 - com.qa.mobile.utility.Utility -INFO - Clicked on Media
+2022-04-12 11:38:17,587 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:38:18,926 - com.qa.mobile.utility.Utility -INFO - Clicked on NFC
+2022-04-12 11:38:21,579 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:38:22,845 - com.qa.mobile.utility.Utility -INFO - Clicked on OS
+2022-04-12 11:38:25,495 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:38:26,803 - com.qa.mobile.utility.Utility -INFO - Clicked on Preference
+2022-04-12 11:38:29,515 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:38:30,794 - com.qa.mobile.utility.Utility -INFO - Clicked on Text
+2022-04-12 11:38:33,456 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:38:34,801 - com.qa.mobile.utility.Utility -INFO - Clicked on Views
+2022-04-12 11:38:37,540 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 11:38:44,654 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - Screenshot taken for failed validateAllMainModule testcases
+2022-04-12 11:38:45,828 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - driver closed
+2022-04-12 11:38:45,897 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - Appium Server Closed
+2022-04-12 17:17:10,741 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - @BeforeSuite Method has been completed
+2022-04-12 17:17:46,260 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - App launched
+2022-04-12 17:17:49,577 - com.qa.mobile.utility.Utility -INFO - Clicked on Access'ibility
+2022-04-12 17:17:52,394 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 17:17:53,677 - com.qa.mobile.utility.Utility -INFO - Clicked on Accessibility
+2022-04-12 17:17:56,372 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 17:17:57,678 - com.qa.mobile.utility.Utility -INFO - Clicked on Animation
+2022-04-12 17:18:00,369 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 17:18:01,673 - com.qa.mobile.utility.Utility -INFO - Clicked on App
+2022-04-12 17:18:04,377 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 17:18:05,709 - com.qa.mobile.utility.Utility -INFO - Clicked on Content
+2022-04-12 17:18:08,397 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 17:18:09,702 - com.qa.mobile.utility.Utility -INFO - Clicked on Graphics
+2022-04-12 17:18:12,353 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 17:18:14,295 - com.qa.mobile.utility.Utility -INFO - Clicked on Media
+2022-04-12 17:18:16,992 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 17:18:18,289 - com.qa.mobile.utility.Utility -INFO - Clicked on NFC
+2022-04-12 17:18:20,996 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 17:18:22,292 - com.qa.mobile.utility.Utility -INFO - Clicked on OS
+2022-04-12 17:18:25,116 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 17:18:26,406 - com.qa.mobile.utility.Utility -INFO - Clicked on Preference
+2022-04-12 17:18:29,125 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 17:18:30,987 - com.qa.mobile.utility.Utility -INFO - Clicked on Text
+2022-04-12 17:18:33,714 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 17:18:35,030 - com.qa.mobile.utility.Utility -INFO - Clicked on Views
+2022-04-12 17:18:37,853 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-12 17:18:43,897 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - Screenshot taken for failed validateAllMainModule testcases
+2022-04-12 17:18:45,404 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - driver closed
+2022-04-12 17:18:45,471 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - Appium Server Closed
+2022-04-14 11:03:58,368 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - @BeforeSuite Method has been completed
+2022-04-14 11:06:19,799 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - @BeforeSuite Method has been completed
+2022-04-14 11:06:32,327 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - App launched
+2022-04-14 11:06:33,619 - com.qa.mobile.utility.Utility -INFO - Clicked on Access'ibility
+2022-04-14 11:06:36,181 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-14 11:06:37,691 - com.qa.mobile.utility.Utility -INFO - Clicked on Accessibility
+2022-04-14 11:06:40,211 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-14 11:06:41,691 - com.qa.mobile.utility.Utility -INFO - Clicked on Animation
+2022-04-14 11:06:44,229 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-14 11:06:45,710 - com.qa.mobile.utility.Utility -INFO - Clicked on App
+2022-04-14 11:06:48,222 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-14 11:06:49,701 - com.qa.mobile.utility.Utility -INFO - Clicked on Content
+2022-04-14 11:06:52,231 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-14 11:06:53,710 - com.qa.mobile.utility.Utility -INFO - Clicked on Graphics
+2022-04-14 11:06:56,219 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-14 11:06:57,760 - com.qa.mobile.utility.Utility -INFO - Clicked on Media
+2022-04-14 11:07:00,278 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-14 11:07:01,898 - com.qa.mobile.utility.Utility -INFO - Clicked on NFC
+2022-04-14 11:07:04,409 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-14 11:07:05,882 - com.qa.mobile.utility.Utility -INFO - Clicked on OS
+2022-04-14 11:07:08,414 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-14 11:07:09,875 - com.qa.mobile.utility.Utility -INFO - Clicked on Preference
+2022-04-14 11:07:12,392 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-14 11:07:13,863 - com.qa.mobile.utility.Utility -INFO - Clicked on Text
+2022-04-14 11:07:16,392 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-14 11:07:17,902 - com.qa.mobile.utility.Utility -INFO - Clicked on Views
+2022-04-14 11:07:20,416 - com.qa.mobile.utility.Utility -INFO - Clicked on back button
+2022-04-14 11:07:25,757 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - Screenshot taken for failed validateAllMainModule testcases
+2022-04-14 11:07:26,220 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - driver closed
+2022-04-14 11:07:26,284 - com.ApiDemo.ValidateAPIDemoHomePage -INFO - Appium Server Closed
