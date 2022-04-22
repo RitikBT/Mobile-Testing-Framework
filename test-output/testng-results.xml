@@ -2,19 +2,19 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
     <line>
-      <![CDATA[<a href='C:\Users\288568\Desktop\CBSL_Framework\MobileTestingFramework\ScreenShot\validateAllMainModule 2022-04-12 051842.png'> <img src='C:\Users\288568\Desktop\CBSL_Framework\MobileTestingFramework\ScreenShot\validateAllMainModule 2022-04-12 051842.png' height='100' width='100'/> </a>]]>
+      <![CDATA[<a href='C:\Users\288568\Desktop\CBSL_Framework\MobileTestingFramework\ScreenShot\validateAllMainModule 2022-04-22 100511.png'> <img src='C:\Users\288568\Desktop\CBSL_Framework\MobileTestingFramework\ScreenShot\validateAllMainModule 2022-04-22 100511.png' height='100' width='100'/> </a>]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="94722" started-at="2022-04-12T17:17:10 IST" finished-at="2022-04-12T17:18:45 IST">
+  <suite name="Suite" duration-ms="65379" started-at="2022-04-22T10:04:06 IST" finished-at="2022-04-22T10:05:12 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="94722" started-at="2022-04-12T17:17:10 IST" finished-at="2022-04-12T17:18:45 IST">
+    <test name="Test" duration-ms="65379" started-at="2022-04-22T10:04:06 IST" finished-at="2022-04-22T10:05:12 IST">
       <class name="com.ApiDemo.ValidateAPIDemoHomePage">
-        <test-method status="PASS" signature="setReport()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@2bbaf4f0]" name="setReport" is-config="true" duration-ms="217" started-at="2022-04-12T17:17:10 IST" finished-at="2022-04-12T17:17:10 IST">
+        <test-method status="PASS" signature="setReport()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="setReport" is-config="true" duration-ms="78" started-at="2022-04-22T10:04:06 IST" finished-at="2022-04-22T10:04:06 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setReport -->
-        <test-method status="PASS" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@2bbaf4f0]" name="setUp" is-config="true" duration-ms="35460" started-at="2022-04-12T17:17:10 IST" finished-at="2022-04-12T17:17:46 IST">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="setUp" is-config="true" duration-ms="11347" started-at="2022-04-22T10:04:06 IST" finished-at="2022-04-22T10:04:18 IST">
           <params>
             <param index="0">
               <value>
@@ -25,7 +25,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="validateAllMainModule()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@2bbaf4f0]" name="validateAllMainModule" duration-ms="51600" started-at="2022-04-12T17:17:46 IST" finished-at="2022-04-12T17:18:37 IST">
+        <test-method status="FAIL" signature="validateAllMainModule()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="validateAllMainModule" duration-ms="48180" started-at="2022-04-22T10:04:18 IST" finished-at="2022-04-22T10:05:06 IST">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -73,29 +73,29 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateAllMainModule -->
-        <test-method status="PASS" signature="closeAndroid(org.testng.ITestResult)[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@2bbaf4f0]" name="closeAndroid" is-config="true" duration-ms="7530" started-at="2022-04-12T17:18:37 IST" finished-at="2022-04-12T17:18:45 IST">
+        <test-method status="PASS" signature="closeAndroid(org.testng.ITestResult)[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="closeAndroid" is-config="true" duration-ms="5767" started-at="2022-04-22T10:05:06 IST" finished-at="2022-04-22T10:05:12 IST">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=validateAllMainModule status=FAILURE method=ValidateAPIDemoHomePage.validateAllMainModule()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@2bbaf4f0] output={null}]]]>
+                <![CDATA[[TestResult name=validateAllMainModule status=FAILURE method=ValidateAPIDemoHomePage.validateAllMainModule()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[<a href='C:\Users\288568\Desktop\CBSL_Framework\MobileTestingFramework\ScreenShot\validateAllMainModule 2022-04-12 051842.png'> <img src='C:\Users\288568\Desktop\CBSL_Framework\MobileTestingFramework\ScreenShot\validateAllMainModule 2022-04-12 051842.png' height='100' width='100'/> </a>]]>
+              <![CDATA[<a href='C:\Users\288568\Desktop\CBSL_Framework\MobileTestingFramework\ScreenShot\validateAllMainModule 2022-04-22 100511.png'> <img src='C:\Users\288568\Desktop\CBSL_Framework\MobileTestingFramework\ScreenShot\validateAllMainModule 2022-04-22 100511.png' height='100' width='100'/> </a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- closeAndroid -->
-        <test-method status="PASS" signature="closeServer()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@2bbaf4f0]" name="closeServer" is-config="true" duration-ms="63" started-at="2022-04-12T17:18:45 IST" finished-at="2022-04-12T17:18:45 IST">
+        <test-method status="PASS" signature="closeServer()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="closeServer" is-config="true" duration-ms="54" started-at="2022-04-22T10:05:12 IST" finished-at="2022-04-22T10:05:12 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeServer -->
-        <test-method status="PASS" signature="closeExtentReport()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@2bbaf4f0]" name="closeExtentReport" is-config="true" duration-ms="1060" started-at="2022-04-12T17:18:45 IST" finished-at="2022-04-12T17:18:46 IST">
+        <test-method status="PASS" signature="closeExtentReport()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="closeExtentReport" is-config="true" duration-ms="330" started-at="2022-04-22T10:05:12 IST" finished-at="2022-04-22T10:05:12 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeExtentReport -->
       </class> <!-- com.ApiDemo.ValidateAPIDemoHomePage -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

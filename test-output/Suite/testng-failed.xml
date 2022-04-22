@@ -7,8 +7,10 @@
         <methods>
           <include name="closeAndroid"/>
           <include name="setUp"/>
-          <include name="stopServer"/>
+          <include name="setReport"/>
+          <include name="closeServer"/>
           <include name="validateAllMainModule"/>
+          <include name="closeExtentReport"/>
         </methods>
       </class> <!-- com.ApiDemo.ValidateAPIDemoHomePage -->
     </classes>
