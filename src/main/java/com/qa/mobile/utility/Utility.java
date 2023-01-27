@@ -75,7 +75,7 @@ public class Utility {
 		}
 	}
 
-	public void setDesiredCapabilities() throws MalformedURLException {
+	public void setDesiredCapabilities(String device) throws MalformedURLException {
 
 		/*
 		 * Using AppiumDriverLocalService
@@ -88,7 +88,12 @@ public class Utility {
 		try {
 			DesiredCapabilities cap = new DesiredCapabilities();
 			cap.setCapability(MobileCapabilityType.AUTOMATION_NAME,"uiautomator2");
-			cap.setCapability(MobileCapabilityType.DEVICE_NAME, "emulator");
+			if(device.equalsIgnoreCase("real")) {
+				cap.setCapability(MobileCapabilityType.DEVICE_NAME, "emulator");
+			}else if(device.equalsIgnoreCase("emulator")) {
+				cap.setCapability(MobileCapabilityType.DEVICE_NAME, "Android Device");
+			}
+			
 			cap.setCapability("unicodeKeyboard", "true");                                     
 			cap.setCapability("resetKeyboard", "true");
 			cap.setCapability("noReset", "false");
