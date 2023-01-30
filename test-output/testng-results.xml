@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
-    <line>
-      <![CDATA[<a href='C:\Users\288568\Desktop\CBSL_Framework\MobileTestingFramework\ScreenShot\validateAllMainModule 2022-04-22 100511.png'> <img src='C:\Users\288568\Desktop\CBSL_Framework\MobileTestingFramework\ScreenShot\validateAllMainModule 2022-04-22 100511.png' height='100' width='100'/> </a>]]>
-    </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="65379" started-at="2022-04-22T10:04:06 IST" finished-at="2022-04-22T10:05:12 IST">
+  <suite name="Default suite" duration-ms="92507" started-at="2023-01-27T16:40:45 IST" finished-at="2023-01-27T16:42:17 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="65379" started-at="2022-04-22T10:04:06 IST" finished-at="2022-04-22T10:05:12 IST">
+    <test name="Default test" duration-ms="92507" started-at="2023-01-27T16:40:45 IST" finished-at="2023-01-27T16:42:17 IST">
       <class name="com.ApiDemo.ValidateAPIDemoHomePage">
-        <test-method status="PASS" signature="setReport()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="setReport" is-config="true" duration-ms="78" started-at="2022-04-22T10:04:06 IST" finished-at="2022-04-22T10:04:06 IST">
+        <test-method status="PASS" signature="setReport()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="setReport" is-config="true" duration-ms="162" started-at="2023-01-27T16:40:45 IST" finished-at="2023-01-27T16:40:45 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setReport -->
-        <test-method status="PASS" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="setUp" is-config="true" duration-ms="11347" started-at="2022-04-22T10:04:06 IST" finished-at="2022-04-22T10:04:18 IST">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="setUp" is-config="true" duration-ms="40058" started-at="2023-01-27T16:40:45 IST" finished-at="2023-01-27T16:41:25 IST">
           <params>
             <param index="0">
               <value>
@@ -25,77 +22,30 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="validateAllMainModule()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="validateAllMainModule" duration-ms="48180" started-at="2022-04-22T10:04:18 IST" finished-at="2022-04-22T10:05:06 IST">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [true] but found [false]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
-at org.testng.Assert.fail(Assert.java:99)
-at org.testng.Assert.failNotEquals(Assert.java:1037)
-at org.testng.Assert.assertEqualsImpl(Assert.java:140)
-at org.testng.Assert.assertEquals(Assert.java:122)
-at org.testng.Assert.assertEquals(Assert.java:819)
-at org.testng.Assert.assertEquals(Assert.java:829)
-at com.ApiDemo.ValidateAPIDemoHomePage.validateAllMainModule(ValidateAPIDemoHomePage.java:18)
-at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.lang.reflect.Method.invoke(Method.java:498)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.util.ArrayList.forEach(ArrayList.java:1259)
-at org.testng.TestRunner.privateRun(TestRunner.java:794)
-at org.testng.TestRunner.run(TestRunner.java:596)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
-at org.testng.SuiteRunner.run(SuiteRunner.java:276)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
-at org.testng.TestNG.runSuites(TestNG.java:1063)
-at org.testng.TestNG.run(TestNG.java:1031)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+        <test-method status="PASS" signature="validateAllMainModule()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="validateAllMainModule" duration-ms="51034" started-at="2023-01-27T16:41:25 IST" finished-at="2023-01-27T16:42:16 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateAllMainModule -->
-        <test-method status="PASS" signature="closeAndroid(org.testng.ITestResult)[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="closeAndroid" is-config="true" duration-ms="5767" started-at="2022-04-22T10:05:06 IST" finished-at="2022-04-22T10:05:12 IST">
+        <test-method status="PASS" signature="closeAndroid(org.testng.ITestResult)[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="closeAndroid" is-config="true" duration-ms="1304" started-at="2023-01-27T16:42:16 IST" finished-at="2023-01-27T16:42:17 IST">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=validateAllMainModule status=FAILURE method=ValidateAPIDemoHomePage.validateAllMainModule()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd] output={null}]]]>
+                <![CDATA[[TestResult name=validateAllMainModule status=SUCCESS method=ValidateAPIDemoHomePage.validateAllMainModule()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
-            <line>
-              <![CDATA[<a href='C:\Users\288568\Desktop\CBSL_Framework\MobileTestingFramework\ScreenShot\validateAllMainModule 2022-04-22 100511.png'> <img src='C:\Users\288568\Desktop\CBSL_Framework\MobileTestingFramework\ScreenShot\validateAllMainModule 2022-04-22 100511.png' height='100' width='100'/> </a>]]>
-            </line>
           </reporter-output>
         </test-method> <!-- closeAndroid -->
-        <test-method status="PASS" signature="closeServer()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="closeServer" is-config="true" duration-ms="54" started-at="2022-04-22T10:05:12 IST" finished-at="2022-04-22T10:05:12 IST">
+        <test-method status="PASS" signature="closeServer()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="closeServer" is-config="true" duration-ms="52" started-at="2023-01-27T16:42:17 IST" finished-at="2023-01-27T16:42:17 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeServer -->
-        <test-method status="PASS" signature="closeExtentReport()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="closeExtentReport" is-config="true" duration-ms="330" started-at="2022-04-22T10:05:12 IST" finished-at="2022-04-22T10:05:12 IST">
+        <test-method status="PASS" signature="closeExtentReport()[pri:0, instance:com.ApiDemo.ValidateAPIDemoHomePage@133e16fd]" name="closeExtentReport" is-config="true" duration-ms="412" started-at="2023-01-27T16:42:18 IST" finished-at="2023-01-27T16:42:18 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeExtentReport -->
       </class> <!-- com.ApiDemo.ValidateAPIDemoHomePage -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

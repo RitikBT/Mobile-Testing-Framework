@@ -42,7 +42,7 @@ public class BaseClass {
 		extent.setSystemInfo("Environment", "Local");
 		extent.setSystemInfo("OS", "Mobile Testing");
 		extent.setSystemInfo("User Name", "Ritik Yadav");
-
+		
 		htmlReporter.config().setDocumentTitle("Automation Report"); 
 		// Name of the report
 		htmlReporter.config().setReportName("Functional Report "); 
@@ -54,7 +54,7 @@ public class BaseClass {
 
 	@BeforeMethod
 	public void setUp(Method methodName) throws MalformedURLException  {
-		utill.setDesiredCapabilities();
+		utill.setDesiredCapabilities("real");
 		test=extent.createTest(methodName.getName());
 
 		logger.info("App launched");
